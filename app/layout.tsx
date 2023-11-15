@@ -28,7 +28,7 @@ export const metadata = {
   openGraph: {
     title: {
       template: "Dipak Chaudhary | %s",
-      default: "Dipak Chaudhary | Frontend Web Developer",
+      default: "Dipak Chaudhary | Backend Developer",
     },
     description:
       "A seasoned fullStack developer with a passion for creating engaging and intuitive websites.",
