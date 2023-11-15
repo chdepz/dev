@@ -23,7 +23,7 @@ export const metadata = {
     default: "Dipak Chaudhary | FullStack Developer",
   },
   description:
-    "A seasoned frontend web developer with a passion for creating engaging and intuitive websites.",
+    "A seasoned fullStack developer with a passion for creating engaging and intuitive websites.",
   metadataBase: new URL("https://portfolio-latest-loq24.vercel.app"),
   openGraph: {
     title: {
